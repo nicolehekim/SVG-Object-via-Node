@@ -1,5 +1,8 @@
 # SVG-Object-via-Node
 
+![image](https://github.com/nicolehekim/SVG-Object-via-Node/assets/140788090/187a65f5-6a57-4198-b22a-8a7ec562532c)
+
+
 ### User Story
 
 ```md
