@@ -1,0 +1,29 @@
+{
+  "name": "svg-object-via-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolehekim/SVG-Object-via-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "bugs": {
+    "url": "https://github.com/nicolehekim/SVG-Object-via-Node/issues"
+  },
+  "homepage": "https://github.com/nicolehekim/SVG-Object-via-Node#readme"
+}
