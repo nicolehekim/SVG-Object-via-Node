@@ -29,3 +29,13 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
+## Video
+
+
+```md
+Test Run Video:
+https://github.com/nicolehekim/SVG-Object-via-Node/assets/140788090/4f91a232-1e88-413b-9e03-8448d690d073
+
+Shapes Video:
+https://github.com/nicolehekim/SVG-Object-via-Node/assets/140788090/71ddadb1-4258-4cf4-aa91-f0fdc869cbe8
+```
